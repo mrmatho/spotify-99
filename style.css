@@ -21,4 +21,22 @@ a:hover {
 h1 {
     color: #60fc12;
     text-align: center;
+    text-shadow: 5px 5px 6px #69c9c9;
+}
+
+.tagline{
+    color: #a3ff74;
+    text-align: center;
+    text-shadow: 5px 5px 6px #558888;
+    font-style:italic;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.container tr td{
+    padding: 10px;
+    text-align: center;
 }

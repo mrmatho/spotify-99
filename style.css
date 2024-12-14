@@ -40,3 +40,9 @@ h1 {
     padding: 10px;
     text-align: center;
 }
+
+.nav td{
+    font-size:0.7em;
+    text-align: right;
+    width: 150px;
+}
